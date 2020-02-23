@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+   <link rel="stylesheet" href="style.css">
+     
+    <!--making the width of the body work the same across all device-->
+  <!--<meta name="viewport" content="width=device-width" , initial-scale=1>-->
+   <!--<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>-->
+</head>
+
+<body>
+  <div id="header">
+<h1>Project 2</h1>
+</div>
+
+<div id="nav">
+
+<a href="index.html">First Discovery Process</a> <br>
+<a href="SecondDiscovery.html">Second Discovery Process</a><br>
+<a href="D3.html">D3.js</a><br>
+</div>
+<div id="section">
+<div id="watermark">
+                            <h2 class="page-title" text-center>What kind of child quality do people value most</h2>
+                           
+                        </div>
+  <div class="row">
+        <div id="waveButtons" class="col-2">
+          <button id="wave3" type="button" class="btn btn-primary ">
+            1995 - 1999
+          </button>
+          <button id="wave4" type="button" class="btn btn-primary ">
+            2000 - 2004
+          </button>
+          <button id="wave5" type="button" class="btn btn-primary ">
+            2005 - 2009
+          </button>
+          <button id="wave6" type="button" class="btn btn-primary ">
+            2010 - 2014
+          </button>
+          <!--select>
+    <option value ="wave3">1995-1999</option>
+  <option value ="wave4">2000-2004</option>
+  <option value="wave5">2005-2009</option>
+  <option value="wave6">2010-2014</option>
+</select-->
+        </div>
+
+        <div id="filterButtons" class="col-2">
+          <button
+            id="qDetermination"
+            type="button"
+            class="btn btn-primary active"
+          >
+            Determination
+          </button>
+          <button id="qHardWork" type="button" class="btn btn-primary ">
+            Hard work
+          </button>
+          <button id="qImagination" type="button" class="btn btn-primary ">
+            Imagination
+          </button>
+          <button id="qIndependence" type="button" class="btn btn-primary ">
+            Independence
+          </button>
+          <button id="qReligiousFaith" type="button" class="btn btn-primary ">
+            Religious faith
+          </button>
+          <button id="qResponsibility" type="button" class="btn btn-primary ">
+            Responsibility
+          </button>
+          <button id="qSavingMoney" type="button" class="btn btn-primary ">
+            Saving money
+          </button>
+          <button id="qToleranceRespect" type="button" class="btn btn-primary ">
+            Tolerance & respect
+          </button>
+          <div id="legend_container" class="col-1"></div>
+        <div id="mapContainer" class="col-6">
+          <div id="map"></div>
+        </div>
+</div>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.24.0/d3-legend.js"></script>
+    <script src="app.js"></script>
+       
+       
+    
+</body>
+
+
+</html>

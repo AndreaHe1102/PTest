@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"call",
+				"callback"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2336,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/KTH/DH2321information/IVISproject2-master/index.html",
+			"settings":
+			{
+				"buffer_size": 3457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/KTH/DH2321information/IVISproject2-master/data/worldmap.json",
+			"settings":
+			{
+				"buffer_size": 223594,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 603,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/信网网页制作/信网/静态网页html文件/mypage.html",
+			"settings":
+			{
+				"buffer_size": 1995,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/KTH/DH2321information/Project2/index.html",
+		"/C/ying5-yuwen-week4/js/CommonComponents.js",
+		"/C/ying5-yuwen-week4/DinnerPlanner.js",
+		"/C/HelloWorldDemo/overview.js",
+		"/C/HelloWorldDemo/index.html",
+		"/D/KTH/DH2321information/HelloWorldDemo/js/TimeOverview.js",
+		"/D/KTH/DH2321information/HelloWorldDemo/style.css",
+		"/D/KTH/DH2321information/HelloWorldDemo/index.html",
+		"/D/KTH/DH2321information/HelloWorldDemo/hei.html",
+		"/D/KTH/DH2321information/HelloWorldDemo/js/main.js",
+		"/C/ying5-yuwen-week2/index.html",
+		"/C/ying5-yuwen-week4/style.css",
+		"/D/KTH/DH2321information/Simple Free Website Template - Free-CSS.com/simple/css/style.css",
+		"/D/KTH/DH2321information/templated-hielo/assets/css/main.css",
+		"/C/ying5-yuwen-week4/index.html",
+		"/C/ying5-yuwen-week4/js/Redux.js",
+		"/D/KTH/DD2258Introduction/A4/4/chaikin.cpp",
+		"/D/KTH/DD2258Introduction/A4/4/colormixing.cpp",
+		"/D/KTH/DD2258Introduction/A4/4/colorinterpolation.cpp",
+		"/C/ying5-yuwen-week2/js/summary/summaryView.js",
+		"/C/ying5-yuwen-week2/js/app.js",
+		"/C/ying5-yuwen-week2/js/DinnerModel.js",
+		"/C/ying5-yuwen-week2/js/details/detailsView.js",
+		"/C/ying5-yuwen-week2/js/details/detailContainer.js",
+		"/C/ying5-yuwen-week2/js/search/searchController.js",
+		"/C/ying5-yuwen-week2/js/search/searchView.js",
+		"/C/ying5-yuwen-week2/js/util/renderPromise.js",
+		"/C/ying5-week1/JS/sidebar/SidebarController.js",
+		"/C/ying5-week1/JS/summary/SummaryView.js",
+		"/C/ying5-week1/JS/sidebar/SidebarView.js",
+		"/C/ying5-week1/JS/summary/SummaryController.js",
+		"/C/ying5-week1/JS/DinnerModel.js",
+		"/C/ying5-week1/JS/app.js",
+		"/C/ying5-week1/index.html",
+		"/C/JSProjects/JS/DinnerModel.js",
+		"/C/ying5-yuwen-week2/js/sidebar/sidebarView.js",
+		"/C/ying5-yuwen-week2/style.css",
+		"/C/ying5-yuwen-week2/js/sidebar/sidebarController.js",
+		"/C/JSProjects/JS/searchView/searchView.js",
+		"/D/KTH/T2/T2/js/getDishDetails.js",
+		"/C/JSProjects/style.css",
+		"/C/JSProjects/JS/app.js",
+		"/C/Users/Administrator/Desktop/feedback1",
+		"/C/JSProjects/JS/apiConfig.js",
+		"/C/JSProjects/.gitignore",
+		"/D/KTH/DD2258Introduction/A2/cubeanimator.cpp",
+		"/D/KTH/DD2258Introduction/A2/A2_t1b.inv",
+		"/C/JSProjects/JS/summary/SummaryView.js",
+		"/D/KTH/web/linliu-week1/linliu-week1/js/DinnerModel.js",
+		"/C/Inviwo/inviwo/modules/basegl/glsl/mesh2drendering.frag",
+		"/C/Inviwo/inviwo/modules/basegl/glsl/meshrendering.frag",
+		"/D/KTH/web/linliu-week1/linliu-week1/index.html",
+		"/C/JSProjects/JS/summary/SummaryController.js",
+		"/D/KTH/web/linliu-week1/linliu-week1/js/app.js",
+		"/D/KTH/web/linliu-week1/linliu-week1/js/sidebar/sidebarController.js",
+		"/C/JSProjects/JS/sidebar/SidebarController.js",
+		"/D/KTH/web/linliu-week1/linliu-week1/js/sidebar/sidebarView.js",
+		"/C/JSProjects/JS/sidebar/SidebarView.js",
+		"/D/KTH/web/linliu-week1/linliu-week1/js/summary/summaryController.js",
+		"/D/JSprojects/index.html",
+		"/D/JSprojects/JS/app.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"my_dataviz",
+			"flo",
+			"details",
+			"dish",
+			"dishes",
+			"details",
+			"dishes",
+			"finally",
+			"];\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1621,
+								1621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/KTH/DH2321information/IVISproject2-master/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1188.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/KTH/DH2321information/IVISproject2-master/data/worldmap.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 223594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 163913.333333,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								273,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/信网网页制作/信网/静态网页html文件/mypage.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 318.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

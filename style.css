@@ -1,0 +1,49 @@
+#header {
+    
+    background-color:#ff7575;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    
+    line-height:30px;
+    background-color:#eeeeee;
+    height:500px;
+    width:200px;
+    float:left;
+    padding:5px;	      
+}
+#section {
+    
+width:900px;
+    
+    float:left;
+    padding:10px;    
+    
+   
+}
+
+
+
+    
+    	 	 
+}
+#watermark .marker{
+	position: absolute;
+	font-size: 60px;
+	opacity: 0.1;
+	font-family: "Josefin Sans";
+	text-transform: uppercase;
+	left: 0;
+	top: -20px;
+}
+
+#watermark{
+	position: relative;
+}
+.page-title{
+	
+	font-size:28px;
+	font-family: "Josefin Sans";
+}
