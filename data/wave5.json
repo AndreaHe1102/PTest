@@ -1,0 +1,582 @@
+{
+  "Andorra": {
+    "Determination": "35,5",
+    "Responsibility": "90,4",
+    "Hard_work": "60,1",
+    "Imagination": "42,9",
+    "Religious_faith": "6,9",
+    "Tolerance_respect": "88,4",
+    "Thrift_saving": "23,6",
+    "": ""
+  },
+  "Argentina": {
+    "Determination": "23,5",
+    "Responsibility": "72,1",
+    "Hard_work": "57,7",
+    "Imagination": "25,2",
+    "Religious_faith": "25,6",
+    "Tolerance_respect": "71,5",
+    "Thrift_saving": "15,4",
+    "": ""
+  },
+  "Australia": {
+    "Determination": "49,3",
+    "Responsibility": "72,3",
+    "Hard_work": "48,6",
+    "Imagination": "43,1",
+    "Religious_faith": "21",
+    "Tolerance_respect": "91,7",
+    "Thrift_saving": "35,1",
+    "": ""
+  },
+  "Brazil": {
+    "Determination": "31,4",
+    "Responsibility": "77,9",
+    "Hard_work": "61,1",
+    "Imagination": "26,7",
+    "Religious_faith": "55,7",
+    "Tolerance_respect": "64,4",
+    "Thrift_saving": "28,6",
+    "": ""
+  },
+  "Bulgaria": {
+    "Determination": "56,1",
+    "Responsibility": "73,5",
+    "Hard_work": "87",
+    "Imagination": "17,3",
+    "Religious_faith": "18,2",
+    "Tolerance_respect": "53",
+    "Thrift_saving": "42,1",
+    "": ""
+  },
+  "Canada": {
+    "Determination": "48,7",
+    "Responsibility": "71,8",
+    "Hard_work": "54,1",
+    "Imagination": "33,7",
+    "Religious_faith": "30,4",
+    "Tolerance_respect": "82,6",
+    "Thrift_saving": "26,7",
+    "": ""
+  },
+  "Chile": {
+    "Determination": "44,6",
+    "Responsibility": "82,8",
+    "Hard_work": "27,2",
+    "Imagination": "25,7",
+    "Religious_faith": "39,7",
+    "Tolerance_respect": "79,5",
+    "Thrift_saving": "39,9",
+    "": ""
+  },
+  "China": {
+    "Determination": "24",
+    "Responsibility": "67,2",
+    "Hard_work": "83,4",
+    "Imagination": "25,3",
+    "Religious_faith": "2,4",
+    "Tolerance_respect": "64,7",
+    "Thrift_saving": "61,6",
+    "": ""
+  },
+  "Taiwan": {
+    "Determination": "33,6",
+    "Responsibility": "92",
+    "Hard_work": "54,7",
+    "Imagination": "17,5",
+    "Religious_faith": "8,9",
+    "Tolerance_respect": "79,8",
+    "Thrift_saving": "68,1",
+    "": ""
+  },
+  "Colombia": {
+    "Determination": "20,1",
+    "Responsibility": "82,9",
+    "Hard_work": "19",
+    "Imagination": "17,8",
+    "Religious_faith": "47,7",
+    "Tolerance_respect": "84,1",
+    "Thrift_saving": "48,2",
+    "": ""
+  },
+  "Cyprus": {
+    "Determination": "44,4",
+    "Responsibility": "77,8",
+    "Hard_work": "45,6",
+    "Imagination": "17,6",
+    "Religious_faith": "42,2",
+    "Tolerance_respect": "70,4",
+    "Thrift_saving": "39,9",
+    "": ""
+  },
+  "Ethiopia": {
+    "Determination": "30,5",
+    "Responsibility": "47,2",
+    "Hard_work": "54,5",
+    "Imagination": "39,1",
+    "Religious_faith": "41,3",
+    "Tolerance_respect": "36,1",
+    "Thrift_saving": "52,5",
+    "": ""
+  },
+  "Finland": {
+    "Determination": "64,3",
+    "Responsibility": "90,1",
+    "Hard_work": "14,7",
+    "Imagination": "37,9",
+    "Religious_faith": "12",
+    "Tolerance_respect": "86,7",
+    "Thrift_saving": "26,1",
+    "": ""
+  },
+  "France": {
+    "Determination": "55",
+    "Responsibility": "78,9",
+    "Hard_work": "62,2",
+    "Imagination": "25",
+    "Religious_faith": "8,7",
+    "Tolerance_respect": "86,8",
+    "Thrift_saving": "42,9",
+    "": ""
+  },
+  "Georgia": {
+    "Determination": "26,5",
+    "Responsibility": "81,1",
+    "Hard_work": "89,5",
+    "Imagination": "9,7",
+    "Religious_faith": "67,3",
+    "Tolerance_respect": "72,1",
+    "Thrift_saving": "29,1",
+    "": ""
+  },
+  "Germany": {
+    "Determination": "64,2",
+    "Responsibility": "85,1",
+    "Hard_work": "26",
+    "Imagination": "39,6",
+    "Religious_faith": "9,3",
+    "Tolerance_respect": "74,6",
+    "Thrift_saving": "48,2",
+    "": ""
+  },
+  "Ghana": {
+    "Determination": "43,3",
+    "Responsibility": "44,3",
+    "Hard_work": "79,1",
+    "Imagination": "17,1",
+    "Religious_faith": "72,6",
+    "Tolerance_respect": "70,7",
+    "Thrift_saving": "19,6",
+    "": ""
+  },
+  "Guatemala": {
+    "Determination": "22,2",
+    "Responsibility": "63,9",
+    "Hard_work": "28,9",
+    "Imagination": "11,2",
+    "Religious_faith": "58,4",
+    "Tolerance_respect": "59",
+    "Thrift_saving": "39,4",
+    "": ""
+  },
+  "Hong Kong": {
+    "Determination": "5,9",
+    "Responsibility": "26,4",
+    "Hard_work": "18,6",
+    "Imagination": "2,4",
+    "Religious_faith": "1,2",
+    "Tolerance_respect": "14,2",
+    "Thrift_saving": "1,8",
+    "": ""
+  },
+  "Hungary": {
+    "Determination": "51,5",
+    "Responsibility": "83,3",
+    "Hard_work": "41,3",
+    "Imagination": "17,9",
+    "Religious_faith": "16,1",
+    "Tolerance_respect": "76,1",
+    "Thrift_saving": "46,9",
+    "": ""
+  },
+  "India": {
+    "Determination": "40,7",
+    "Responsibility": "68",
+    "Hard_work": "81,3",
+    "Imagination": "25,4",
+    "Religious_faith": "41,3",
+    "Tolerance_respect": "55,8",
+    "Thrift_saving": "55,4",
+    "": ""
+  },
+  "Indonesia": {
+    "Determination": "41,5",
+    "Responsibility": "83,9",
+    "Hard_work": "59,4",
+    "Imagination": "18,2",
+    "Religious_faith": "90,6",
+    "Tolerance_respect": "59,1",
+    "Thrift_saving": "47,3",
+    "": ""
+  },
+  "Iran": {
+    "Determination": "30,3",
+    "Responsibility": "81,1",
+    "Hard_work": "68,8",
+    "Imagination": "17,6",
+    "Religious_faith": "71,4",
+    "Tolerance_respect": "64,5",
+    "Thrift_saving": "39,2",
+    "": ""
+  },
+  "Iraq": {
+    "Determination": "20,8",
+    "Responsibility": "82,9",
+    "Hard_work": "63,4",
+    "Imagination": "9,1",
+    "Religious_faith": "89,9",
+    "Tolerance_respect": "85,2",
+    "Thrift_saving": "31,6",
+    "": ""
+  },
+  "Italy": {
+    "Determination": "44,2",
+    "Responsibility": "87,1",
+    "Hard_work": "39,3",
+    "Imagination": "14,6",
+    "Religious_faith": "34,4",
+    "Tolerance_respect": "73,9",
+    "Thrift_saving": "39,4",
+    "": ""
+  },
+  "Japan": {
+    "Determination": "67,2",
+    "Responsibility": "90,6",
+    "Hard_work": "32,4",
+    "Imagination": "30,8",
+    "Religious_faith": "5,6",
+    "Tolerance_respect": "74,5",
+    "Thrift_saving": "52,3",
+    "": ""
+  },
+  "Jordan": {
+    "Determination": "30,8",
+    "Responsibility": "59,8",
+    "Hard_work": "42,6",
+    "Imagination": "17,8",
+    "Religious_faith": "84",
+    "Tolerance_respect": "74,6",
+    "Thrift_saving": "25,3",
+    "": ""
+  },
+  "South Korea": {
+    "Determination": "44,9",
+    "Responsibility": "90,2",
+    "Hard_work": "72,4",
+    "Imagination": "41,1",
+    "Religious_faith": "21,5",
+    "Tolerance_respect": "56,9",
+    "Thrift_saving": "72,5",
+    "": ""
+  },
+  "Malaysia": {
+    "Determination": "33,3",
+    "Responsibility": "78,6",
+    "Hard_work": "49,1",
+    "Imagination": "21,6",
+    "Religious_faith": "59,6",
+    "Tolerance_respect": "73,7",
+    "Thrift_saving": "50,7",
+    "": ""
+  },
+  "Mali": {
+    "Determination": "24,4",
+    "Responsibility": "45",
+    "Hard_work": "72,6",
+    "Imagination": "23,6",
+    "Religious_faith": "59,6",
+    "Tolerance_respect": "59,9",
+    "Thrift_saving": "44,1",
+    "": ""
+  },
+  "Mexico": {
+    "Determination": "36,3",
+    "Responsibility": "77,8",
+    "Hard_work": "24,3",
+    "Imagination": "24,6",
+    "Religious_faith": "38,8",
+    "Tolerance_respect": "78,1",
+    "Thrift_saving": "39,4",
+    "": ""
+  },
+  "Moldova": {
+    "Determination": "25,2",
+    "Responsibility": "69,6",
+    "Hard_work": "79,4",
+    "Imagination": "20,8",
+    "Religious_faith": "41,6",
+    "Tolerance_respect": "66,5",
+    "Thrift_saving": "53,2",
+    "": ""
+  },
+  "Morocco": {
+    "Determination": "27,3",
+    "Responsibility": "69",
+    "Hard_work": "51",
+    "Imagination": "26,2",
+    "Religious_faith": "68,2",
+    "Tolerance_respect": "58,6",
+    "Thrift_saving": "45",
+    "": ""
+  },
+  "Netherlands": {
+    "Determination": "37,7",
+    "Responsibility": "89,9",
+    "Hard_work": "29,3",
+    "Imagination": "27,5",
+    "Religious_faith": "9,7",
+    "Tolerance_respect": "85,8",
+    "Thrift_saving": "41",
+    "": ""
+  },
+  "New Zealand": {
+    "Determination": "48,7",
+    "Responsibility": "63",
+    "Hard_work": "41,1",
+    "Imagination": "35,1",
+    "Religious_faith": "14,6",
+    "Tolerance_respect": "82,5",
+    "Thrift_saving": "33,3",
+    "": ""
+  },
+  "Norway": {
+    "Determination": "42,2",
+    "Responsibility": "89,1",
+    "Hard_work": "12,7",
+    "Imagination": "54,6",
+    "Religious_faith": "8,6",
+    "Tolerance_respect": "91,4",
+    "Thrift_saving": "14",
+    "": ""
+  },
+  "Peru": {
+    "Determination": "17,5",
+    "Responsibility": "73,3",
+    "Hard_work": "54,2",
+    "Imagination": "12,8",
+    "Religious_faith": "45",
+    "Tolerance_respect": "66,2",
+    "Thrift_saving": "11,2",
+    "": ""
+  },
+  "Poland": {
+    "Determination": "25,2",
+    "Responsibility": "81",
+    "Hard_work": "21,3",
+    "Imagination": "20,2",
+    "Religious_faith": "46,7",
+    "Tolerance_respect": "84,9",
+    "Thrift_saving": "53,5",
+    "": ""
+  },
+  "Romania": {
+    "Determination": "30,3",
+    "Responsibility": "68,8",
+    "Hard_work": "83,3",
+    "Imagination": "18,1",
+    "Religious_faith": "62,8",
+    "Tolerance_respect": "58,6",
+    "Thrift_saving": "53",
+    "": ""
+  },
+  "Russia": {
+    "Determination": "52",
+    "Responsibility": "80,2",
+    "Hard_work": "88,6",
+    "Imagination": "14,2",
+    "Religious_faith": "11",
+    "Tolerance_respect": "68,6",
+    "Thrift_saving": "52,5",
+    "": ""
+  },
+  "Rwanda": {
+    "Determination": "58,6",
+    "Responsibility": "54,2",
+    "Hard_work": "83,1",
+    "Imagination": "18",
+    "Religious_faith": "37,6",
+    "Tolerance_respect": "63,8",
+    "Thrift_saving": "24,1",
+    "": ""
+  },
+  "Serbia": {
+    "Determination": "49,3",
+    "Responsibility": "66,7",
+    "Hard_work": "67,5",
+    "Imagination": "21,6",
+    "Religious_faith": "25,1",
+    "Tolerance_respect": "63,9",
+    "Thrift_saving": "35",
+    "": ""
+  },
+  "Vietnam": {
+    "Determination": "62,5",
+    "Responsibility": "75,3",
+    "Hard_work": "88,9",
+    "Imagination": "16,4",
+    "Religious_faith": "6,1",
+    "Tolerance_respect": "50,4",
+    "Thrift_saving": "59,9",
+    "": ""
+  },
+  "Slovenia": {
+    "Determination": "63,2",
+    "Responsibility": "73,9",
+    "Hard_work": "33,8",
+    "Imagination": "16,3",
+    "Religious_faith": "16,3",
+    "Tolerance_respect": "75",
+    "Thrift_saving": "40,4",
+    "": ""
+  },
+  "South Africa": {
+    "Determination": "32,9",
+    "Responsibility": "54,8",
+    "Hard_work": "70,7",
+    "Imagination": "15,6",
+    "Religious_faith": "56,2",
+    "Tolerance_respect": "77,9",
+    "Thrift_saving": "36,9",
+    "": ""
+  },
+  "Spain": {
+    "Determination": "29,6",
+    "Responsibility": "69,7",
+    "Hard_work": "62,6",
+    "Imagination": "20,4",
+    "Religious_faith": "11,2",
+    "Tolerance_respect": "71,7",
+    "Thrift_saving": "18,9",
+    "": ""
+  },
+  "Sweden": {
+    "Determination": "48,7",
+    "Responsibility": "91,4",
+    "Hard_work": "10,6",
+    "Imagination": "57,1",
+    "Religious_faith": "6,1",
+    "Tolerance_respect": "93,6",
+    "Thrift_saving": "38,3",
+    "": ""
+  },
+  "Switzerland": {
+    "Determination": "72,4",
+    "Responsibility": "90,5",
+    "Hard_work": "20,3",
+    "Imagination": "48,1",
+    "Religious_faith": "12,6",
+    "Tolerance_respect": "91,7",
+    "Thrift_saving": "23,3",
+    "": ""
+  },
+  "Thailand": {
+    "Determination": "46,2",
+    "Responsibility": "60,6",
+    "Hard_work": "22,9",
+    "Imagination": "28,5",
+    "Religious_faith": "29,5",
+    "Tolerance_respect": "58",
+    "Thrift_saving": "57,7",
+    "": ""
+  },
+  "Trinidad and Tobago": {
+    "Determination": "26,1",
+    "Responsibility": "58,1",
+    "Hard_work": "63,9",
+    "Imagination": "6,3",
+    "Religious_faith": "68,9",
+    "Tolerance_respect": "82,2",
+    "Thrift_saving": "32,3",
+    "": ""
+  },
+  "Turkey": {
+    "Determination": "36,7",
+    "Responsibility": "74,9",
+    "Hard_work": "78,8",
+    "Imagination": "22,3",
+    "Religious_faith": "42,2",
+    "Tolerance_respect": "70,1",
+    "Thrift_saving": "38,9",
+    "": ""
+  },
+  "Ukraine": {
+    "Determination": "48,5",
+    "Responsibility": "65,5",
+    "Hard_work": "76,8",
+    "Imagination": "28",
+    "Religious_faith": "15,6",
+    "Tolerance_respect": "56,1",
+    "Thrift_saving": "40,8",
+    "": ""
+  },
+  "Egypt": {
+    "Determination": "22",
+    "Responsibility": "77,6",
+    "Hard_work": "57",
+    "Imagination": "10,5",
+    "Religious_faith": "89,8",
+    "Tolerance_respect": "70,9",
+    "Thrift_saving": "27,2",
+    "": ""
+  },
+  "United Kingdom": {
+    "Determination": "39,8",
+    "Responsibility": "60,3",
+    "Hard_work": "43,5",
+    "Imagination": "37,4",
+    "Religious_faith": "18,8",
+    "Tolerance_respect": "85,1",
+    "Thrift_saving": "25,4",
+    "": ""
+  },
+  "United States": {
+    "Determination": "40,2",
+    "Responsibility": "72,2",
+    "Hard_work": "61,7",
+    "Imagination": "31,7",
+    "Religious_faith": "50,6",
+    "Tolerance_respect": "78,3",
+    "Thrift_saving": "29,9",
+    "": ""
+  },
+  "Burkina Faso": {
+    "Determination": "27,1",
+    "Responsibility": "38,7",
+    "Hard_work": "80,4",
+    "Imagination": "19,2",
+    "Religious_faith": "68,1",
+    "Tolerance_respect": "69,4",
+    "Thrift_saving": "47,5",
+    "": ""
+  },
+  "Uruguay": {
+    "Determination": "39",
+    "Responsibility": "79,5",
+    "Hard_work": "22,3",
+    "Imagination": "32,2",
+    "Religious_faith": "18,2",
+    "Tolerance_respect": "81,7",
+    "Thrift_saving": "23",
+    "": ""
+  },
+  "Zambia": {
+    "Determination": "38,4",
+    "Responsibility": "52,5",
+    "Hard_work": "81,1",
+    "Imagination": "20,3",
+    "Religious_faith": "60,9",
+    "Tolerance_respect": "57,9",
+    "Thrift_saving": "23,5",
+    "": ""
+  }
+}
